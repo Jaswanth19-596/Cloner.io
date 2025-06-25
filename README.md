@@ -1,4 +1,4 @@
-# Orchids SWE Intern Challenge Template
+# Cloner.io
 
 This project consists of a backend built with FastAPI and a frontend built with Next.js and TypeScript.
 
